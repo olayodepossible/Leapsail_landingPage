@@ -4,18 +4,18 @@
       <h1>Our pricing plan for everyone</h1>
       <p>Packages are for individual only</p>
     </div>
-
+    <Container />
     <Footer />
   </div>
 </template>
 
 <script>
-// import Container from "../components/Container";
+import Container from "../components/Container";
 import Footer from "../components/Footer";
 export default {
   name: "Homepage",
   components: {
-    // Container
+    Container,
     Footer
   },
   props: {
@@ -33,6 +33,7 @@ export default {
 .container {
   width: 100%;
   height: 600px;
+  margin: 0 auto;
   background-image: url("../assets/snow_sakting.png");
   background-position: left 420px top -190px;
   background-repeat: no-repeat;

@@ -6,7 +6,7 @@
         <li>Terms & Condition</li>
         <li>Career</li>
         <li>Privacy Policy</li>
-        <li>Leapsail copy& 2020</li>
+        <li>Leapsail copyright 2020</li>
       </ul>
     </div>
     <div class="icon">
@@ -48,13 +48,17 @@ export default {
 .footer {
   display: flex;
   justify-content: space-between;
-  padding: 0 5px;
+  padding: 20px 0px;
+  background-color: #000;
+  color: #fff;
+
+  /* padding: 0 10px;
   background-color: #000;
   color: #fff;
   width: 100%;
   position: absolute;
   bottom: 20px;
-  height: 60px;
+  height: 60px; */
 }
 
 .terms ul {
