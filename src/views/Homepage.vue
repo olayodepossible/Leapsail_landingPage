@@ -39,7 +39,7 @@ hr {
   height: 600px;
   margin: 0 auto;
   margin-top: 80px;
-  background-image: url("../assets/snow_sakting.png");
+  background-image: url("../assets/snow_skating.png");
   background-position: left 920px top -190px;
   background-repeat: no-repeat;
   background-size: 50%;
@@ -56,9 +56,9 @@ hr {
 .plans {
   width: 50%;
   margin: 0 auto;
-  margin-top: 120px;
-  margin-bottom: 120px;
-  border-radius: 10px;
-  border: 2px solid green;
+  margin-top: 100px;
+  margin-bottom: 100px;
+  border-radius: 20px;
+  box-shadow: 2px 2px 2px 2px rgba(82, 80, 80, 0.123);
 }
 </style>

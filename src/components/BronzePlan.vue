@@ -24,6 +24,9 @@ export default {
 .bronze h1 {
   color: green;
 }
+.bronze h3 {
+  font-size: 2rem;
+}
 button {
   width: 150px;
   border: 0;

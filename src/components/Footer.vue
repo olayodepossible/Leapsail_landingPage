@@ -51,7 +51,7 @@ export default {
   justify-content: space-between;
   padding: 20px 0px;
   background-color: #000;
-  color: #fff;
+  color: rgba(255, 255, 255, 0.808);
 
   /* padding: 0 10px;
   background-color: #000;
@@ -68,7 +68,7 @@ export default {
 }
 
 .terms li {
-  border-right: 0.8px solid rgb(230, 215, 215);
+  border-right: 0.8px solid rgba(230, 215, 215, 0.747);
   padding: 0.5rem;
 }
 </style>

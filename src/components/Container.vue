@@ -1,14 +1,14 @@
 <template>
-  <div class="plan-container">
+  <div class="container-plan">
     <div class="plan-feature">
-      <div>
+      <div class="plan">
         <h3>Plan features</h3>
       </div>
       <BronzePlan class="bronze" />
       <SilverPlan class="silver" />
       <GoldPlan class="gold" />
     </div>
-    <div class="list"></div>
+    <Features />
   </div>
 </template>
 
@@ -16,25 +16,30 @@
 import BronzePlan from "./BronzePlan";
 import SilverPlan from "./SilverPlan";
 import GoldPlan from "./GoldPlan";
+import Features from "./Features";
 
 export default {
   name: "Container",
   components: {
     BronzePlan,
     SilverPlan,
-    GoldPlan
+    GoldPlan,
+    Features
   }
 };
 </script>
 
 <style scoped>
-.plan-container {
+.container-plan {
   background-color: #fff;
-  box-shadow: #fff;
-  z-index: 2;
+  color: rgba(0, 0, 0, 0.39);
 }
 .plan-feature {
   display: flex;
-  justify-content: space-between;
+}
+.plan {
+  margin-left: 20px;
+  margin-top: 80px;
+  font-size: 2rem;
 }
 </style>

@@ -22,6 +22,9 @@ export default {
 .gold h1 {
   color: blueviolet;
 }
+.gold h3 {
+  font-size: 2rem;
+}
 
 button {
   width: 150px;

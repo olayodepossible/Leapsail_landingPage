@@ -9,30 +9,32 @@
 
 <script>
 export default {
-  name: "SilverPlan",
-  props: {
-    plan: String,
-    cost: String
-  }
+  name: "SilverPlan"
 };
 </script>
 
 <style scoped>
 .silver {
+  position: relative;
+  top: -20px;
   background-color: rgba(0, 140, 255, 0.959);
-  border-radius: 5px;
+  border-radius: 15px;
   text-align: center;
   font-family: Catamaran, Georgia, "sans-serif";
 }
 .silver h1 {
   color: #fff;
 }
+.silver h3 {
+  font-size: 2rem;
+}
 
 button {
-  width: 150px;
+  width: 120px;
   border: 0;
   padding: 7px;
-  margin: 20px;
+  margin: 40px;
+  margin-bottom: 50px;
   border-radius: 15px;
   background-color: #fff;
   color: orangered;
