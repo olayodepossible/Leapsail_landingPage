@@ -4,7 +4,7 @@
       <h1>Our pricing plan for everyone</h1>
       <p>Packages are for individual only</p>
     </div>
-    <Container />
+    <Container class="plans" />
     <Footer />
   </div>
 </template>
@@ -26,14 +26,11 @@ export default {
 
 <!-- Add "scoped" attribute to limit CSS to this component only -->
 <style scoped>
-@import url("https://fonts.googleapis.com/css2?family=Catamaran:wght@900&display=swap");
-* {
-  box-sizing: border-box;
-}
 .container {
   width: 100%;
   height: 600px;
   margin: 0 auto;
+  margin-top: 80px;
   background-image: url("../assets/snow_sakting.png");
   background-position: left 420px top -190px;
   background-repeat: no-repeat;
@@ -47,8 +44,13 @@ export default {
   line-height: 0.2rem;
   font-family: Catamaran, Georgia, Times, "Times New Roman", "sans-serif";
 }
-.msg p {
-  font-family: Arial, Helvetica, sans-serif;
-  color: rgb(224, 215, 215);
+
+.plans {
+  width: 50%;
+  margin: 0 auto;
+  margin-top: 120px;
+  margin-bottom: 120px;
+  border-radius: 10px;
+  border: 2px solid green;
 }
 </style>

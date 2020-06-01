@@ -11,7 +11,7 @@
     </div>
     <div class="icon">
       <a href="#" target="_blank">
-        <i class="fa fa-github-square fa-2x" aria-hidden="true"></i>
+        <i class="fa fa-instagram fa-2x" aria-hidden="true"></i>
       </a>
       <a href="#" target="_blank">
         <i class="fa fa-twitter fa-2x" aria-hidden="true"></i>
@@ -39,6 +39,7 @@ export default {
 }
 .icon a {
   padding: 0.5rem;
+  color: #fff;
 }
 .icon a:hover {
   color: #eece1a;

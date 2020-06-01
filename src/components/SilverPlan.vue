@@ -1,7 +1,7 @@
 <template>
   <div class="plan">
-    <h1>{{plan}}</h1>
-    <h3>{{cost}}</h3>
+    <h1>SILVER</h1>
+    <h3>&#8358; 2000</h3>
     <p>Per month</p>
     <button>Activated</button>
   </div>
@@ -9,7 +9,7 @@
 
 <script>
 export default {
-  name: "Plan",
+  name: "SilverPlan",
   props: {
     plan: String,
     cost: String
@@ -18,4 +18,7 @@ export default {
 </script>
 
 <style scoped>
+.silver h1 {
+  color: blueviolet;
+}
 </style>

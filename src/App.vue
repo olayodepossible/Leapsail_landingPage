@@ -28,11 +28,23 @@
 
 
 <style>
+@import url("https://fonts.googleapis.com/css2?family=Catamaran:wght@900&display=swap");
+
 hr {
   opacity: 0.1;
 }
+
+p {
+  font-family: Arial, Helvetica, sans-serif;
+  color: rgb(224, 215, 215);
+}
 .header {
   display: flex;
+  position: fixed;
+  width: 100%;
+  z-index: 10;
+  top: 0;
+  background-color: #fff;
   font-size: 0.5rem;
 }
 
