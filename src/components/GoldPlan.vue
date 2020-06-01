@@ -1,5 +1,5 @@
 <template>
-  <div class="plan">
+  <div class="gold">
     <h1>GOLD</h1>
     <h3>&#8358; 2500</h3>
     <p>Per month</p>
@@ -15,7 +15,21 @@ export default {
 </script>
 
 <style scoped>
+.gold {
+  text-align: center;
+  font-family: Catamaran, Georgia, Times, "Times New Roman", "sans-serif";
+}
 .gold h1 {
+  color: blueviolet;
+}
+
+button {
+  width: 150px;
+  border: 0;
+  padding: 7px;
+  margin: 20px;
+  border-radius: 15px;
+  background-color: orangered;
   color: #fff;
 }
 </style>

@@ -1,12 +1,12 @@
 <template>
-  <div class="container">
+  <div class="plan-container">
     <div class="plan-feature">
       <div>
         <h3>Plan features</h3>
       </div>
       <BronzePlan class="bronze" />
-      <GoldPlan class="gold" />
       <SilverPlan class="silver" />
+      <GoldPlan class="gold" />
     </div>
     <div class="list"></div>
   </div>
@@ -28,9 +28,13 @@ export default {
 </script>
 
 <style scoped>
+.plan-container {
+  background-color: #fff;
+  box-shadow: #fff;
+  z-index: 2;
+}
 .plan-feature {
   display: flex;
   justify-content: space-between;
-  color: red;
 }
 </style>

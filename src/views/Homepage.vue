@@ -1,5 +1,7 @@
 <template>
   <div class="container">
+    <Header />
+    <hr />
     <div class="msg">
       <h1>Our pricing plan for everyone</h1>
       <p>Packages are for individual only</p>
@@ -10,11 +12,13 @@
 </template>
 
 <script>
+import Header from "../components/Layout/Header";
 import Container from "../components/Container";
 import Footer from "../components/Footer";
 export default {
   name: "Homepage",
   components: {
+    Header,
     Container,
     Footer
   },
@@ -26,15 +30,20 @@ export default {
 
 <!-- Add "scoped" attribute to limit CSS to this component only -->
 <style scoped>
+@import url("https://fonts.googleapis.com/css2?family=Catamaran:wght@900&display=swap");
+hr {
+  opacity: 0.1;
+}
 .container {
   width: 100%;
   height: 600px;
   margin: 0 auto;
   margin-top: 80px;
   background-image: url("../assets/snow_sakting.png");
-  background-position: left 420px top -190px;
+  background-position: left 920px top -190px;
   background-repeat: no-repeat;
-  background-size: 80%;
+  background-size: 50%;
+  font-family: Catamaran, Georgia, Times, "Times New Roman", "sans-serif";
 }
 
 /* .msg {
@@ -42,7 +51,6 @@ export default {
 } */
 .msg h1 {
   line-height: 0.2rem;
-  font-family: Catamaran, Georgia, Times, "Times New Roman", "sans-serif";
 }
 
 .plans {
