@@ -46,9 +46,6 @@ hr {
   font-family: Catamaran, Georgia, Times, "Times New Roman", "sans-serif";
 }
 
-/* .msg {
-  margin-top: 120px;
-} */
 .msg h1 {
   line-height: 0.2rem;
 }

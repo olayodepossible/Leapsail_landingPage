@@ -52,14 +52,6 @@ export default {
   padding: 20px 0px;
   background-color: #000;
   color: rgba(255, 255, 255, 0.808);
-
-  /* padding: 0 10px;
-  background-color: #000;
-  color: #fff;
-  width: 100%;
-  position: absolute;
-  bottom: 20px;
-  height: 60px; */
 }
 
 .terms ul {
