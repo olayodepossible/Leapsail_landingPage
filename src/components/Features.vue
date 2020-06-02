@@ -6,57 +6,57 @@
           <span>Loan</span>
         </div>
         <div>
-          <span class="one">50k - 150k Naira</span>
-          <span class="two">50k - 2M Naira</span>
-          <span class="three">50k - 4M Naira</span>
+          <span class="one text">50k - 150k Naira</span>
+          <span class="two text">50k - 2M Naira</span>
+          <span class="three text">50k - 4M Naira</span>
         </div>
       </li>
       <li>
         <div>
           <span>Investment</span>
         </div>
-        <div>
-          <p class="one">
+        <div class="img">
+          <span class="one">
             <img src="https://img.icons8.com/offices/20/000000/ok.png" />
-          </p>
-          <p class="two">
+          </span>
+          <span class="two">
             <img src="https://img.icons8.com/offices/20/000000/ok.png" />
-          </p>
-          <p class="three">
+          </span>
+          <span class="three">
             <img src="https://img.icons8.com/offices/20/000000/ok.png" />
-          </p>
+          </span>
         </div>
       </li>
       <li>
         <div>
           <span>Smart Travel Savings</span>
         </div>
-        <div>
-          <p class="one">
+        <div class="img">
+          <span class="one">
             <img src="https://img.icons8.com/offices/20/000000/ok.png" />
-          </p>
-          <p class="two">
+          </span>
+          <span class="two">
             <img src="https://img.icons8.com/offices/20/000000/ok.png" />
-          </p>
-          <p class="three">
+          </span>
+          <span class="three">
             <img src="https://img.icons8.com/offices/20/000000/ok.png" />
-          </p>
+          </span>
         </div>
       </li>
       <li>
         <div>
           <span>Security</span>
         </div>
-        <div>
-          <p class="one">
+        <div class="img">
+          <span class="one">
             <img src="https://img.icons8.com/offices/20/000000/ok.png" />
-          </p>
-          <p class="two">
+          </span>
+          <span class="two">
             <img src="https://img.icons8.com/offices/20/000000/ok.png" />
-          </p>
-          <p class="three">
+          </span>
+          <span class="three">
             <img src="https://img.icons8.com/offices/20/000000/ok.png" />
-          </p>
+          </span>
         </div>
       </li>
       <li>
@@ -64,55 +64,55 @@
           <span>Bank Statement</span>
         </div>
         <div>
-          <span class="one">200k - 400k Naira</span>
-          <span class="two">200k - 1M Naira</span>
-          <span class="three">200k - 1M Naira</span>
+          <span class="one text">200k - 400k Naira</span>
+          <span class="two text">200k - 1M Naira</span>
+          <span class="three v">200k - 1M</span>
         </div>
       </li>
       <li>
         <div>
           <span>Visa</span>
         </div>
-        <div>
-          <p class="one">
+        <div class="img">
+          <span class="one">
             <img src="https://img.icons8.com/offices/20/000000/ok.png" />
-          </p>
-          <p class="two">
+          </span>
+          <span class="two">
             <img src="https://img.icons8.com/offices/20/000000/ok.png" />
-          </p>
-          <p class="three">
+          </span>
+          <span class="three">
             <img src="https://img.icons8.com/offices/20/000000/ok.png" />
-          </p>
+          </span>
         </div>
       </li>
       <li>
         <div>
           <span>Ticket</span>
         </div>
-        <div>
-          <p class="one">
+        <div class="img">
+          <span class="one">
             <img src="https://img.icons8.com/offices/20/000000/ok.png" />
-          </p>
-          <p class="two">
+          </span>
+          <span class="two">
             <img src="https://img.icons8.com/offices/20/000000/ok.png" />
-          </p>
-          <p class="three">
+          </span>
+          <span class="three">
             <img src="https://img.icons8.com/offices/20/000000/ok.png" />
-          </p>
+          </span>
         </div>
       </li>
       <li>
         <div>
           <span>Escort</span>
         </div>
-        <div>
-          <p class="one"></p>
-          <p class="two">
+        <div class="img">
+          <span class="one"></span>
+          <span class="two">
             <img src="https://img.icons8.com/offices/20/000000/ok.png" />
-          </p>
-          <p class="three">
+          </span>
+          <span class="three">
             <img src="https://img.icons8.com/offices/20/000000/ok.png" />
-          </p>
+          </span>
         </div>
       </li>
       <li>
@@ -120,155 +120,153 @@
           <span>Eight Free Country Destination</span>
         </div>
         <div>
-          <p class="one">Just 1</p>
-          <p class="two">Just 2</p>
-          <p class="three">
+          <span class="one text">Just 1</span>
+          <span class="two text">Just 3</span>
+          <span class="img">
             <img src="https://img.icons8.com/offices/20/000000/ok.png" />
-          </p>
+          </span>
         </div>
       </li>
       <li>
         <div>
           <span>Tour Package</span>
         </div>
-        <div>
-          <p class="one">
+        <div class="img">
+          <span class="one">
             <img src="https://img.icons8.com/offices/20/000000/ok.png" />
-          </p>
-          <p class="two">
+          </span>
+          <span class="two">
             <img src="https://img.icons8.com/offices/20/000000/ok.png" />
-          </p>
-          <p class="three">
+          </span>
+          <span class="three">
             <img src="https://img.icons8.com/offices/20/000000/ok.png" />
-          </p>
+          </span>
         </div>
       </li>
       <li>
         <div>
           <span>Hotel Reservation</span>
         </div>
-        <div>
-          <p class="one">
+        <div class="img">
+          <span class="one">
             <img src="https://img.icons8.com/offices/20/000000/ok.png" />
-          </p>
-          <p class="two">
+          </span>
+          <span class="two">
             <img src="https://img.icons8.com/offices/20/000000/ok.png" />
-          </p>
-          <p class="three">
+          </span>
+          <span class="three">
             <img src="https://img.icons8.com/offices/20/000000/ok.png" />
-          </p>
+          </span>
         </div>
       </li>
       <li>
         <div>
           <span>24/7 Customer Success Expert</span>
         </div>
-        <div>
-          <p class="one"></p>
-          <p class="two"></p>
-          <p class="three">
+        <div class="img">
+          <span></span>
+          <span></span>
+          <span class="three">
             <img src="https://img.icons8.com/offices/20/000000/ok.png" />
-          </p>
+          </span>
         </div>
       </li>
       <li>
         <div>
           <span>Travel shows</span>
         </div>
-        <div>
-          <p class="one">
+        <div class="img">
+          <span class="one">
             <img src="https://img.icons8.com/offices/20/000000/ok.png" />
-          </p>
-          <p class="two">
+          </span>
+          <span class="two">
             <img src="https://img.icons8.com/offices/20/000000/ok.png" />
-          </p>
-          <p class="three">
+          </span>
+          <span class="three">
             <img src="https://img.icons8.com/offices/20/000000/ok.png" />
-          </p>
+          </span>
         </div>
       </li>
       <li>
         <div>
           <span>Event</span>
         </div>
-        <div>
-          <p class="one"></p>
-          <p class="two">
+        <div class="img">
+          <span class="one"></span>
+          <span class="two">
             <img src="https://img.icons8.com/offices/20/000000/ok.png" />
-          </p>
-          <p class="three">
+          </span>
+          <span class="three">
             <img src="https://img.icons8.com/offices/20/000000/ok.png" />
-          </p>
+          </span>
         </div>
       </li>
       <li>
         <div>
           <span>Games</span>
         </div>
-        <div>
-          <p class="one"></p>
-          <p class="two"></p>
-          <p class="three">
+        <div class="img">
+          <span class="one"></span>
+          <span class="two"></span>
+          <span class="three">
             <img src="https://img.icons8.com/offices/20/000000/ok.png" />
-          </p>
+          </span>
         </div>
       </li>
       <li>
         <div>
           <span>Gold Investor</span>
         </div>
-        <div>
-          <p class="one"></p>
-          <p class="two">
+        <div class="img">
+          <span class="one"></span>
+          <span class="two text">Silver Investor</span>
+          <span class="three">
             <img src="https://img.icons8.com/offices/20/000000/ok.png" />
-          </p>
-          <p class="three">
-            <img src="https://img.icons8.com/offices/20/000000/ok.png" />
-          </p>
+          </span>
         </div>
       </li>
       <li>
         <div>
           <span>Start Up</span>
         </div>
-        <div>
-          <p class="one"></p>
-          <p class="two">
+        <div class="img">
+          <span class="one"></span>
+          <span class="two">
             <img src="https://img.icons8.com/offices/20/000000/ok.png" />
-          </p>
-          <p class="three">
+          </span>
+          <span class="three">
             <img src="https://img.icons8.com/offices/20/000000/ok.png" />
-          </p>
+          </span>
         </div>
       </li>
       <li>
         <div>
           <span>Give a Meal</span>
         </div>
-        <div>
-          <p class="one">50k - 150k Naira</p>
-          <p class="two">
+        <div class="img">
+          <span v-bind:style="{ color: green, marginLeft: 50 +'px' }">50k - 150k Naira</span>
+          <span class="two">
             <img src="https://img.icons8.com/offices/20/000000/ok.png" />
-          </p>
-          <p class="three">
+          </span>
+          <span class="three">
             <img src="https://img.icons8.com/offices/20/000000/ok.png" />
-          </p>
+          </span>
         </div>
       </li>
       <li>
         <div>
           <span>Cargo</span>
         </div>
-        <div>
-          <p class="one">
+        <div class="img">
+          <span class="one">
             <img src="https://img.icons8.com/offices/20/000000/ok.png" />
-          </p>
-          <p class="two">
+          </span>
+          <span class="two">
             <img src="https://img.icons8.com/offices/20/000000/ok.png" />
-          </p>
-          <p class="three">
+          </span>
+          <span class="three">
             <img src="https://img.icons8.com/offices/20/000000/ok.png" />
-          </p>
+          </span>
         </div>
       </li>
     </ul>
@@ -276,8 +274,14 @@
 </template>
 
 <script>
-export default {};
+export default {
+  //   data: {
+  //     one: "one",
+  //     text: "text"
+  //   }
+};
 </script>
+
 
 <style scoped>
 .plan-feature {
@@ -287,7 +291,7 @@ export default {};
 
 .plan-feature li {
   display: inline-flex;
-  width: 95%;
+  width: 90%;
   justify-content: space-between;
   list-style: none;
   padding: 8px;
@@ -301,15 +305,13 @@ export default {};
   padding: 2px;
 }
 
-.plan-feature li p {
-  display: inline;
-  margin: 100px;
-  margin-right: 70px;
-  padding: 2px;
+.img span {
+  margin-left: 50px;
 }
 
-.img {
-  width: 20px;
+.text span {
+  color: red;
+  margin-left: 50px;
 }
 .one {
   color: green;
